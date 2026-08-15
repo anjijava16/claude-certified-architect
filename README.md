@@ -10,3 +10,7 @@ Claude Certificate Preparation MD files
 # Exam1
 1. Exam Code	CCA-F
 2. Exam Name	Claude Certified Architect Foundations
+
+# Exam2
+1. Exam Code	CCAR-P
+2. Exam Name	Claude Certified Architect - Professional

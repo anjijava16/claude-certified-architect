@@ -14,3 +14,8 @@ Claude Certificate Preparation MD files
 # Exam2
 1. Exam Code	CCAR-P
 2. Exam Name	Claude Certified Architect - Professional
+
+
+# Exam3
+1. Exam Code	CCDV-F
+2. Exam Name	Claude Certified Developer - Foundations

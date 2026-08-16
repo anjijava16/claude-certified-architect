@@ -6,6 +6,7 @@ Claude Certificate Preparation MD files
 2. https://www.linkedin.com/pulse/claude-certified-architect-foundations-exam-resources-baltar-abalo-fdlue/
 3. https://www.itexamspro.com/anthropic.html
 4. https://www.reddit.com/r/ClaudeAI/comments/1u43exm/passed_the_claude_certified_architect_foundations/
+5. https://www.youtube.com/watch?v=reDRM0tqhNs&t=1s
 
 
 # Exam1

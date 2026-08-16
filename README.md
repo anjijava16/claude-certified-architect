@@ -7,6 +7,7 @@ Claude Certificate Preparation MD files
 3. https://www.itexamspro.com/anthropic.html
 4. https://www.reddit.com/r/ClaudeAI/comments/1u43exm/passed_the_claude_certified_architect_foundations/
 5. https://www.youtube.com/watch?v=reDRM0tqhNs&t=1s
+6. https://platform.claude.com/docs/en/intro
 
 
 # Exam1

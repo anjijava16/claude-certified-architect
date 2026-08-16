@@ -8,6 +8,7 @@ Claude Certificate Preparation MD files
 4. https://www.reddit.com/r/ClaudeAI/comments/1u43exm/passed_the_claude_certified_architect_foundations/
 5. https://www.youtube.com/watch?v=reDRM0tqhNs&t=1s
 6. https://platform.claude.com/docs/en/intro
+7. https://platform.claude.com/cookbook/claude-agent-sdk-08-dynamic-workflows
 
 
 # Exam1

@@ -5,6 +5,7 @@ Claude Certificate Preparation MD files
 1. https://github.com/paullarionov/claude-certified-architect/blob/main/guide_en.md
 2. https://www.linkedin.com/pulse/claude-certified-architect-foundations-exam-resources-baltar-abalo-fdlue/
 3. https://www.itexamspro.com/anthropic.html
+4. https://www.reddit.com/r/ClaudeAI/comments/1u43exm/passed_the_claude_certified_architect_foundations/
 
 
 # Exam1
